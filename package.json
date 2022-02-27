@@ -1,0 +1,22 @@
+{
+  "name": "dullae-dullae",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doria-re/dullae-dullae.git"
+  },
+  "author": "doria-re <resonanta0@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doria-re/dullae-dullae/issues"
+  },
+  "homepage": "https://github.com/doria-re/dullae-dullae#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
